@@ -1,0 +1,10 @@
+dict: dict.o linkedlist.o
+	gcc -Wall -o dict dict.c linkedlist.o
+
+
+dict.o: dict.c linkedlist.h
+	gcc -Wall -c dict.c
+
+
+linkedlist.o: linkedlist.c
+	gcc -Wall -c linkedlist.c
