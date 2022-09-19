@@ -24,6 +24,10 @@
 
 > The overall marks is over 80%
 
+### Mid-semester Test
+![image](https://user-images.githubusercontent.com/46154514/191028468-0c25e697-ea64-4465-ab24-46758eb6c50c.png)
+
+
 ### Project 1
 No mark screenshot available
 
